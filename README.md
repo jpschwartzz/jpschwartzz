@@ -1,7 +1,7 @@
 <h2 align="center">Bem vindo(a) ao meu perfil !!!</h2>
 
 
-<p>Opa, sou o João Pedro! Sou apaixonado por tecnologia e estou sempre buscando me manter atualizado nessa área incrível que está em constante evolução, atualmente curso Sistemas de Informação na UNESC e também faço cursos de programação em paralelo.
+<p>Opa, meu nome é João Pedro! Sou apaixonado por tecnologia e estou sempre buscando me manter atualizado nessa área incrível que está em constante evolução, atualmente curso Sistemas de Informação na UNESC e também faço cursos de programação em paralelo.
 
 #
 
